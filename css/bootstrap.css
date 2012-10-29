@@ -4889,6 +4889,14 @@ small {
 #directions ul > li {
   font-weight: normal;
 }
+#danger-zone h5 {
+  color: #9d261d;
+}
+#danger-zone button {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
 .pull-right {
   float: right;
 }
